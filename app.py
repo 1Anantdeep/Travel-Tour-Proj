@@ -1,12 +1,9 @@
 import streamlit as st
-import folium
-from streamlit_folium import folium_static
 import pandas as pd
 import os
-from datetime import date,timedelta,datetime
+from datetime import date,timedelta
 from dateutil import parser
 import plotly.express as px
-from streamlit_plotly_events import plotly_events
 
 from extra import ARIMA_MD,KNN_MD # Model Exc File
 
