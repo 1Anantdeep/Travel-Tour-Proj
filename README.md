@@ -1,11 +1,11 @@
 # Travel-Tour-Proj
 Capstone Project for solving over tourism 
-Created By: 
--  Atharshan Kennedy
--  Uzer Hamza Khan
--  Caroline Kaurungai
--  Anantdeep Kaur
--  Pratik Patel
+- Created By: 
+  -  Atharshan Kennedy
+  -  Uzer Hamza Khan
+  -  Caroline Kaurungai
+  -  Anantdeep Kaur
+  -  Pratik Patel
 
 Project is an application that will guide users to lower crowded areas.
 
