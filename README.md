@@ -10,11 +10,11 @@ Capstone Project for solving over tourism
 Project is an application that will guide users to lower crowded areas.
 
 Website built with Stream Lit & deployed through Heroku and can be accessed through here:
--  https://capstone-travel-and-tourism-3aff3f983f6c.herokuapp.com/
-To run locally either fork then pull to remote or just download project:
--  Then right click in the folder with the app.py file and click CMD and type in:
-  -  streamlit run app.py or python -m streamlit run app.py
-  -  local host Website will appear in browser   
+- https://capstone-travel-and-tourism-3aff3f983f6c.herokuapp.com/
+- To run locally either fork then pull to remote or just download project:
+  -  Then right click in the folder with the app.py file and click CMD and type in:
+    -  streamlit run app.py or python -m streamlit run app.py
+    -  local host Website will appear in browser   
     
 Provides:
 -  Suggestions for different travel days to a location
